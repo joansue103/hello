@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function info() {
+
+	info =  'Hi, I am Asia';
+
+	navigator.notification.alert(info);
+	
+}
